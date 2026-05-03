@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🌎 Baseado em **Manaus, Amazonas, Brasil**
+- 🌎 **Manaus, Amazonas, Brasil**
 - 🚀 Desenvolvedor web focado em **HTML, CSS e JavaScript**
-- 🌱 Atualmente aprendendo mais sobre **desenvolvimento front-end**
+- 🌱 Atualmente aprendendo mais sobre **Backend, RestApi, Banco de Dados**
 - 💡 Sempre buscando melhorar e aprender novas tecnologias
 - 🤝 Aberto a colaborações e projetos open source
 
@@ -28,29 +28,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Projetos em Destaque
-
-### 🔗 [aula_git](https://github.com/fallzer/aula_git)
-> Projeto desenvolvido para praticar os fundamentos do Git e GitHub. Inclui estrutura HTML e boas práticas de versionamento.
-
-### 🔗 [Tempo-Juntos](https://github.com/fallzer/Tempo-Juntos)
-> Aplicação web criada com HTML. Um projeto especial desenvolvido com dedicação e cuidado.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Fabrício's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fallzer&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fallzer&layout=compact&theme=dark)
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
