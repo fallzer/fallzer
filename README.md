@@ -37,7 +37,8 @@
 
 ## 🎯 Objetivos para 2026
 
-- [ ] Aprender **React.js**
+- [ ] Dominar **FastAPI** e construir APIs REST completas
+- [ ] Entender **autenticação e segurança** em APIs (JWT, OAuth
 - [ ] Contribuir com projetos **open source**
 - [ ] Criar um **portfólio online**
 - [ ] Fazer commit todos os dias e manter o gráfico verde 🟩
