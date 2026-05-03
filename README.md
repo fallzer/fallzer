@@ -57,7 +57,7 @@
 
 <div align="center">
 
-*"A jornada de mil milhas começa com um único passo."* 🚀
+"Um milhão de linhas de código começa com um único git init."
 
 ⭐ Não se esqueça de dar uma estrela nos projetos que você gostar!
 
