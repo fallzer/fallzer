@@ -48,8 +48,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-181717?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabricio-rodrigues/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-3985ca?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabricio-rodrigues/)
+
 
 </div>
 
