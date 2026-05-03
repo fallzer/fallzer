@@ -31,8 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -50,6 +49,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-fallzer-181717?style=for-the-badge&logo=github)](https://github.com/fallzer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-rodrigues/)
 
 </div>
 
