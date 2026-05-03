@@ -48,8 +48,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-fallzer-181717?style=for-the-badge&logo=github)](https://github.com/fallzer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-rodrigues/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-181717?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fabricio-rodrigues/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabrício_Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 </div>
 
