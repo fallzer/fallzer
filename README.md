@@ -37,8 +37,8 @@
 
 ## 🎯 Objetivos para 2026
 
-- [ ] Dominar **FastAPI** e construir APIs REST completas
-- [ ] Entender **autenticação e segurança** em APIs (JWT, OAuth
+- [ ] Dominar **FastAPI** e construir APIs REST completa
+- [ ] Entender **autenticação e segurança** em APIs (JWT, OAuth e API Keys).
 - [ ] Contribuir com projetos **open source**
 - [ ] Criar um **portfólio online**
 - [ ] Fazer commit todos os dias e manter o gráfico verde 🟩
