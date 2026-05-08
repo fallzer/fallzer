@@ -2,7 +2,7 @@
 
 # Olá, eu sou Fabrício R. 👋
 
-### Desenvolvedor Web | Apaixonado por criar experiências na web
+### Desenvolvedor Web
 
 [![GitHub followers](https://img.shields.io/github/followers/fallzer?label=Followers&style=social)](https://github.com/fallzer)
 [![Profile Views](https://komarev.com/ghpvc/?username=fallzer&color=brightgreen)](https://github.com/fallzer)
