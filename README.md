@@ -60,6 +60,5 @@
 
 "Um milhão de linhas de código começa com um único git init."
 
-⭐ Não se esqueça de dar uma estrela nos projetos que você gostar!
 
 </div>
